@@ -1,1 +1,2 @@
-exclude: [assets/plugins/magnific-popup/website/index.html]
+exclude: [assets/plugins/magnific-popup/website/index.html, assets/plugins/magnific-popup/website/wordpress.html]
+
