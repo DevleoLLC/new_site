@@ -4,7 +4,7 @@
   "description": "AppStrap Theme Bootstrap 4 theme",
   "main": "index.htm",
   "devDependencies": {
-    "gulp": "latest",
+    "gulp": "^3.9.1",
     "gulp-autoprefixer": "latest",
     "gulp-bless": "latest",
     "gulp-concat": "latest",
