@@ -3,4 +3,4 @@
 # , assets/plugins/backstretch/jquery.backstretch.min.js, assets/plugins/fakeLoader/fakeLoader.min.js, assets/plugins/flag-icon-css/css/flag-icon.min.css]
 
 # alternate attempt 12-26-17
-# exclude: ["assets/plugins/magnific-popup"]
+exclude: ["assets/plugins/magnific-popup"]
