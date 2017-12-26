@@ -1,1 +1,3 @@
-
+exclude: [assets/plugins]
+include: [assets/plugins/plugin-css/plugin-blazy.min.css, assets/plugins/plugin-css/plugin-sticky-classes.min.css
+, assets/plugins/backstretch/jquery.backstretch.min.js, assets/plugins/fakeLoader/fakeLoader.min.js, assets/plugins/flag-icon-css/css/flag-icon.min.css]
