@@ -38,46 +38,46 @@
 }
 
 .d-flex {
-  display: block!important
+  display: block !important
 }
 
 .d-inline-flex {
-  display: inline-block!important
+  display: inline-block !important
 }
 
 @media (min-width:576px) {
   .d-sm-flex {
-    display: block!important
+    display: block !important
   }
   .d-sm-inline-flex {
-    display: inline-block!important
+    display: inline-block !important
   }
 }
 
 @media (min-width:768px) {
   .d-md-flex {
-    display: block!important
+    display: block !important
   }
   .d-md-inline-flex {
-    display: inline-block!important
+    display: inline-block !important
   }
 }
 
 @media (min-width:992px) {
   .d-lg-flex {
-    display: block!important
+    display: block !important
   }
   .d-lg-inline-flex {
-    display: inline-block!important
+    display: inline-block !important
   }
 }
 
 @media (min-width:1200px) {
   .d-xl-flex {
-    display: block!important
+    display: block !important
   }
   .d-xl-inline-flex {
-    display: inline-block!important
+    display: inline-block !important
   }
 }
 
@@ -132,7 +132,7 @@
     display: block
   }
   .navbar-toggleable .navbar-collapse {
-    display: block!important
+    display: block !important
   }
   .navbar-toggleable .navbar-brand,
   .navbar-toggleable .navbar-divider,
@@ -146,7 +146,7 @@
     display: block
   }
   .navbar-toggleable-sm .navbar-collapse {
-    display: block!important
+    display: block !important
   }
   .navbar-toggleable-sm .navbar-brand,
   .navbar-toggleable-sm .navbar-divider,
@@ -160,7 +160,7 @@
     display: block
   }
   .navbar-toggleable-md .navbar-collapse {
-    display: block!important
+    display: block !important
   }
   .navbar-toggleable-md .navbar-brand,
   .navbar-toggleable-md .navbar-divider,
@@ -174,7 +174,7 @@
     display: block
   }
   .navbar-toggleable-lg .navbar-collapse {
-    display: block!important
+    display: block !important
   }
   .navbar-toggleable-lg .navbar-brand,
   .navbar-toggleable-lg .navbar-divider,
@@ -188,7 +188,7 @@
 }
 
 .navbar-toggleable-xl .navbar-collapse {
-  display: block!important
+  display: block !important
 }
 
 .card {
@@ -1287,11 +1287,11 @@
 }
 
 .flex-first {
-  float: left!important
+  float: left !important
 }
 
 .flex-last {
-  float: right!important
+  float: right !important
 }
 
 .modal-header::after {
