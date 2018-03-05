@@ -16277,7 +16277,7 @@ input[type=range].form-control {
 
 .overlay-hover-content.overlay-op-7:after,
 .overlay.overlay-op-7:after {
-  opacity: .7
+  opacity: .5
 }
 
 .overlay-hover-content.overlay-op-8:after,
@@ -19770,6 +19770,9 @@ a.text-hover-brand-whatsapp:hover {
 .text-hover-white:hover,
 .text-white {
   color: #fff !important
+}
+.blurred {
+  text-shadow: 0 0 20px #000 !important
 }
 
 .bg-green,

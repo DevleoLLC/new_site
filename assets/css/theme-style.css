@@ -1,23 +1,4 @@
 @charset "UTF-8";
-/*******************************************************
- * Custom theme code styles
- * Written by Themelize.me (http://themelize.me)
- *
- * This version overrides Bootstrap CSS which is included
- * via the HTML files.
- * Bootstrap variables & mixins are used & overridden
- *
- * To customise this we recommend you copy & paste this file
- * to make future updates easier
- *******************************************************/
-
-/*******************************************************
- * Custom theme code styles
- * Written by Themelize.me (http://themelize.me)
- *
- * Includes the base variables & mixins needed for all
- * scss files
- *******************************************************/
 
 .blockquote-bubble,
 .header-inner,
@@ -22148,6 +22129,9 @@ a:hover.text-brand-whatsapp {
     border: none;
     z-index: 2;
   }
+}
+.blurred {
+  text-shadow: 0 0 20px #000;
 }
 
 .row-hover:hover {
